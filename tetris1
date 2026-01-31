@@ -6,9 +6,9 @@
     <style>
         /* Font Integration */
         /* Ensure these URLs point to your local font files in the /fonts/ folder */
-        @font-face { font-family: 'FontA'; src: url('https://www.onlinewebfonts.com/download/95213692329fefad58c3a5771dd6ddba') format('woff'); font-display: swap; }
-        @font-face { font-family: 'FontB'; src: url('https://www.onlinewebfonts.com/download/06b3f3db113bae4db8c28dedfd667818#google_vignette') format('woff2'); font-display: swap; }
-        @font-face { font-family: 'FontC'; src: url('https://www.onlinewebfonts.com/download/ffc278d3825e583bc658db3933a55996') format('woff'); font-display: swap; }
+        @font-face { font-family: 'FontA'; src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap') format('ttf'); font-display: swap; }
+        @font-face { font-family: 'FontB'; src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap') format('ttf'); font-display: swap; }
+        @font-face { font-family: 'FontC'; src: url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,900;1,900&display=swap') format('ttf'); font-display: swap; }
 
         body {
             background: #1a1a2e;
